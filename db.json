@@ -9,7 +9,8 @@
       "accountName": "Mladen Gligorijevic",
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
-      "accountCountryCode": "SE"
+      "accountCountryCode": "SE",
+      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "accountName": "Mladen Gligorijevic",
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
-      "accountCountryCode": "SE"
+      "accountCountryCode": "SE",
+      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "accountName": "Mladen Gligorijevic",
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
-      "accountCountryCode": "SE"
+      "accountCountryCode": "SE",
+      "accountEmail": "mladen.gligorijevic+zapiert2@oviso.fun"
     }
   ],
   "profile": {
