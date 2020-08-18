@@ -1,8 +1,38 @@
 {
   "orders": [
-    { "id": 1, "title": "Order 1", "product": "gsuite", "accountId": 1 },
-    { "id": 2, "title": "Order 2", "product": "weebly", "accountId": 1 },
-    { "id": 3, "title": "Order 3", "product": "weebly", "accountId": 2 }
+    {
+      "id": 1,
+      "title": "Order 1",
+      "product": "gsuite",
+      "domain": "testing-zapier-mlgli-200818-1.com",
+      "accountId": 1,
+      "accountName": "Mladen Gligorijevic",
+      "accountOrganizationName": "Hostomia",
+      "accountPostalCode": 72731,
+      "accountCountryCode": "SE"
+    },
+    {
+      "id": 2,
+      "title": "Order 2",
+      "product": "weebly",
+      "domain": "testing-zapier-mlgli-200818-2.com",
+      "accountId": 1,
+      "accountName": "Mladen Gligorijevic",
+      "accountOrganizationName": "Hostomia",
+      "accountPostalCode": 72731,
+      "accountCountryCode": "SE"
+    },
+    {
+      "id": 3,
+      "title": "Order 3",
+      "product": "weebly",
+      "domain": "testing-zapier-mlgli-200818-3.com",
+      "accountId": 2,
+      "accountName": "Mladen Gligorijevic",
+      "accountOrganizationName": "Hostomia",
+      "accountPostalCode": 72731,
+      "accountCountryCode": "SE"
+    }
   ],
   "profile": {
     "name": "mlgli"
