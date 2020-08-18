@@ -1,11 +1,7 @@
 {
   "orders": [
-    { "id": 1, "title": "Order 1" },
-    { "id": 2, "title": "Order 2" }
-  ],
-  "orderLines": [
-    { "id": 1, "product": "gsuite", "orderId": 1 },
-    { "id": 2, "product": "gsuite", "orderId": 2 }
+    { "id": 1, "title": "Order 1", "orderLines": [{ "product": "gsuite" }] },
+    { "id": 2, "title": "Order 2", "orderLines": [{ "product": "weebly" }] } }
   ],
   "profile": {
     "name": "mlgli"
