@@ -3,14 +3,15 @@
     {
       "id": 1,
       "title": "Order 1",
-      "product": "gsuite",
+      "product": "Google-Apps-For-Business",
       "domain": "goog-test.atomia.com.testing-zapier-mlgli-200818-1.com",
       "accountId": 1,
       "accountName": "Mladen Gligorijevic",
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
       "accountCountryCode": "SE",
-      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun"
+      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun",
+      "quantity": 2
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
       "accountCountryCode": "SE",
-      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun"
+      "accountEmail": "mladen.gligorijevic+zapiert1@oviso.fun",
+      "quantity": 1
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "accountOrganizationName": "Hostomia",
       "accountPostalCode": 72731,
       "accountCountryCode": "SE",
-      "accountEmail": "mladen.gligorijevic+zapiert2@oviso.fun"
+      "accountEmail": "mladen.gligorijevic+zapiert2@oviso.fun",
+      "quantity": 1
     }
   ],
   "profile": {
