@@ -5,6 +5,7 @@
       "title": "Order 9",
       "product": "Google-Apps-For-Business",
       "domain": "goog-test.atomia.com.testing-zapier-mlgli-9.com",
+      "subdomain": "a",
       "accountId": 1,
       "accountName": "Mladen Gligorijevic",
       "accountOrganizationName": "Hostomia",
