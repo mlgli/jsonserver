@@ -1,4 +1,13 @@
 {
+  "messages": [
+    {
+      "id": 1,
+      "from": "foo@bar.com",
+      "to": "john@doe.com",
+      "subject": "Hello",
+      "body": "World"
+    }
+   ],
   "orders": [
     {
       "id": 12,
