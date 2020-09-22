@@ -2,7 +2,7 @@
   "messages": [
     {
       "id": 1,
-      "from": "sam@dooer.com",
+      "from": "foo@dooer.com",
       "to": "john@doe.com",
       "subject": "Hello",
       "body": "World"
