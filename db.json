@@ -1,4 +1,10 @@
 {
+  "notifications": [
+    {
+      "id": 1,
+      "text": "Hello there"
+    }
+   ],
   "messages": [
     {
       "id": 1,
