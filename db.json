@@ -1,4 +1,10 @@
 {
+  "kissflows": [
+     {
+      "id": 1,
+      "text": "Hello there"
+     }
+   ],
   "notifications": [
     {
       "id": 1,
